@@ -1,0 +1,344 @@
+.banner-section-bg-container {
+    background-color: #386085;
+    height: 60vh;
+}
+
+.logo {
+    font-size: 21px;
+    font-weight: bold;
+    height: 50px;
+    width: 40px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #4b6cc1;
+    padding-left: 10px;
+    padding-bottom: 15px;
+}
+
+.image-main-page {
+    height: 350px;
+    width: 350px;
+    border-radius: 150px;
+}
+
+.button {
+    height: 45px;
+    width: 110px;
+    font-size: 13px;
+    background-color: #4b6cc1;
+    color: #ffffff;
+    border-radius: 10px;
+}
+
+.heading {
+    font-size: 40px;
+    font-weight: 300px;
+    color: #ffffff;
+}
+
+.para {
+    font-size: 21px;
+    font-weight: 300px;
+    color: #9aa5b1;
+}
+
+.span-h {
+    font-size: 40px;
+    font-weight: 300px;
+    color: black;
+}
+
+.about-me-bg-container {
+    background-color: #386085;
+}
+
+.heading-fact {
+    font-size: 28px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.heading-about-me {
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+.para-fact {
+    font-size: 19px;
+    font-weight: 400px;
+    color: #9aa5b1;
+}
+
+.image {
+    height: 400px;
+    border-radius: 16px;
+}
+
+.education-bg-container {
+    background-color: aliceblue;
+}
+
+.edu-heading {
+    color: #4b6cc1;
+    font-size: 30px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.edu-paragraph {
+    color: black;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.edu-unlist {
+    list-style-type: none;
+}
+
+.edu-list {
+    color: #386085;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 300;
+}
+
+.edu-button {
+    border-radius: 10px;
+    height: 55px;
+    width: 90px;
+}
+
+.skill-section-bg-container {
+    background-color: #78a1ca;
+}
+
+.skill-card-image {
+    height: 85px;
+    width: 85px;
+    border-radius: 10px;
+}
+
+.skill-card-heading {
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+.skill-card-container {
+    background-color: #1e4161;
+    border-radius: 10px;
+}
+
+.project-section-bg-container {
+    background-color: #323f4b;
+}
+
+.portfolio-h {
+    font-size: 28px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.project-h {
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+.project-card {
+    background-color: blue;
+    border-radius: 10px;
+}
+
+.card-h-1 {
+    font-size: 21px;
+    font-weight: bold;
+    color: #9aa5b1;
+}
+
+.card-h-2 {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.card-para-pr {
+    font-size: 27px;
+    font-weight: 500px;
+    color: #9aa5b1;
+}
+
+.link {
+    font-size: 14px;
+    font-weight: 300px;
+    color: #cced00;
+}
+
+.service-section-bg-container {
+    background-color: lightskyblue;
+}
+
+.service-h {
+    font-size: 28px;
+    font-weight: 500px;
+    color: #cced00;
+}
+
+.what-i-do-h {
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+.service-card {
+    background-color: grey;
+    border-radius: 10px;
+}
+
+.card-image {
+    height: 50px;
+    width: 50px;
+}
+
+.card-h {
+    font-size: 38px;
+    font-weight: bold;
+    color: black;
+}
+
+.card-para-service {
+    font-size: 28px;
+    font-weight: 500px;
+    color: white;
+}
+
+.bg-section-wd {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+}
+
+.hr-line-wd {
+    background-color: white;
+    width: 60px;
+}
+
+.heading-wd {
+    font-size: 28px;
+    font-weight: bold;
+    color: white;
+}
+
+.para-wd {
+    font-size: 16px;
+    font-weight: 300px;
+    color: white;
+}
+
+.icon-wd {
+    font-weight: bold;
+    color: white;
+}
+
+.testimonials-section-bg-container {
+    background-color: #1f2933;
+}
+
+.testimonial-heading {
+    font-size: 28px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.testimonial-heading-2 {
+    font-size: 38px;
+    font-weight: bold;
+    color: white;
+}
+
+.carousal-card {
+    background-color: #323f4b;
+}
+
+.carousal-image {
+    height: 105px;
+    width: 110px;
+    border-radius: 55px;
+}
+
+.testimonial-para {
+    font-size: 21px;
+    font-weight: 500px;
+    color: #9aa5b1;
+}
+
+.testimonial-para-2 {
+    font-size: 24px;
+    font-weight: 500px;
+    color: white;
+}
+
+.bg-container-9 {
+    background-color: #0d2436;
+}
+
+.image-9 {
+    height: 200px;
+    width: 200px;
+}
+
+.icon-container-9 {
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 15px;
+    background-color: #152c3e;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.icon-9 {
+    color: #5a7184;
+    font-size: 18px;
+}
+
+.para-9 {
+    font-size: 20px;
+    color: #959ead;
+    font-family: "Roboto";
+    font-weight: 400;
+}
+
+.section-heading-9 {
+    color: #5a7184;
+    font-size: 35px;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.section-list-9 {
+    list-style-type: none;
+    padding: 10px;
+}
+
+.section-list-item-9 {
+    color: #5a7184;
+    font-size: 25px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.hr-line-9 {
+    background-color: #5a7184;
+}
+
+.span-h-9 {
+    font-size: 30px;
+    color: #ffffff;
+    font-weight: 300;
+    font-family: "Roboto";
+}
